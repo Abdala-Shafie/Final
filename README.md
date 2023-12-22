@@ -1,1 +1,2 @@
-## aa ii koow inaan halkaan isticmaalo
+## MY FIRST APPLICATION ON GITHUB
+ 
